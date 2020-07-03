@@ -18,6 +18,8 @@ To put the plugin, firstly first.. You need to download Minecraft Windows 10 thr
 6. Next, extract Microsoft Windows 10 Appx using zip or rar to get in-game data.
 7. After done extracting, just simply put the plugin to extracted MCWin10 Directory and use powershell again to register the package : add-appxpackage AppxManifest.xml -register
 
+Link to the Adguard Store Web : https://store.rg-adguard.net/
+
 # Congratulation!
 You already done all the steps! Just launch the game and enjoy!
 
