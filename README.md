@@ -31,4 +31,4 @@ You already done all the steps! Just launch the game and enjoy!
 - Marketplace connection removed.
 - Server connection removed.
 - Realm Connection removed.
-Addition : If you still want to play on server and accessing Marketplace, you can download Minecraft Pocket Edition and use MCrack plugin on my other repo.
+Addition : If you still want to play on server and accessing Marketplace, you can download Minecraft Pocket Edition and use [MCrack plugin](https://github.com/Yuuki-kito/MCrack).
