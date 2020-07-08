@@ -11,6 +11,16 @@ Simply download all the files on this repo and copy that into Minecraft In-Game 
 2. Select the depedency version according to your system. If your system is 64 bit, then install the x64 version and etc
 3. After getting the depedency, it'll automaticly re-route you to the menu section. From here, now Install MinecraftUWP by selecting option 2 and wait until its finish registering the AppxManifest.xml
 
+# How To Get Minecraft Dir? 
+1. Find the Minecraft Windows 10 Window store link, it'll would be :
+```
+https://www.microsoft.com/id-id/p/minecraft-for-windows-10/9nblggh2jhxj
+```
+2. Now go to [Adguard Store](https://store.rg-adguard.net/) and copy the link above to the bar give on the web.
+3. Choose ```Micorosft.MinecraftUWP``` according to your system. If your system running on 64 bit, then choose x64 variant of ```Microsoft.MinecraftUWP.appx```
+4. After download the ```.appx``` file, extract it using WinZip, 7z, WinRar and etc... Extract it to whatever you want.
+5. Congrats, you already have the Minecraft In-Game Directory! Now go to [#How Its Works](https://github.com/Hyakkii/Revision#how-its-works) to install this plugin.
+
 # Congratulation!
 You already done all the steps! Just launch the game and enjoy!
 
