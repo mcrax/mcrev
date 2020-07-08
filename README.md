@@ -19,7 +19,7 @@ https://www.microsoft.com/id-id/p/minecraft-for-windows-10/9nblggh2jhxj
 2. Now go to [Adguard Store](https://store.rg-adguard.net/) and copy the link above to the bar give on the web.
 3. Choose ```Micorosft.MinecraftUWP``` according to your system. If your system running on 64 bit, then choose x64 variant of ```Microsoft.MinecraftUWP.appx```
 4. After download the ```.appx``` file, extract it using WinZip, 7z, WinRar and etc... Extract it to whatever you want.
-5. Congrats, you already have the Minecraft In-Game Directory! Now go to [#How Its Works](https://github.com/Hyakkii/Revision#how-its-works) to install this plugin.
+5. Congrats, you already have the Minecraft In-Game Directory! Now go to [#How To Use](https://github.com/Hyakkii/Revision#how-to-use) to install this plugin.
 
 # Congratulation!
 You already done all the steps! Just launch the game and enjoy!
