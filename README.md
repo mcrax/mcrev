@@ -6,7 +6,7 @@ The plugin just disable the License with addition .dll and xbox account routing.
 Forgot to mention, since its disabling the online license checking.. You cant access Marketplace, realm, and server but its still work on LAN Multiplayer.
 
 # How To Use?
-Simply download all the files on this repo and launch the .bat file. 
+Simply download all the files on this repo and copy that into Minecraft In-Game Directory
 1. From there, select 1 to install Minecraft depedency first (If you doesnt have it installed on your machine) if you not install it, the Minecraft wont be registered and instead giving you error for missing "Microsoft.Store.Engagement.Service"
 2. Select the depedency version according to your system. If your system is 64 bit, then install the x64 version and etc
 3. After getting the depedency, it'll automaticly re-route you to the menu section. From here, now Install MinecraftUWP by selecting option 2 and wait until its finish registering the AppxManifest.xml
