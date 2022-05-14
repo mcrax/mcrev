@@ -1,5 +1,5 @@
 # Revision
-Minecraft Windows 10 License Disabler
+Minecraft Windows 10 License Disabler **[Archived]**. Please use the latest version from **Releases** instead, as this old bypass already patched in `Windows 20H2+`.
 
 # How Its Works?
 The plugin just disable the License with addition .dll and xbox account routing. So you cant login xbox since its routed to Offline uses and can be customly changed on "xbox-live.json" included on the plugin.
